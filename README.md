@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=650&lines=aspiring+System+Design+Engineer;designing+for+scale%2C+not+just+for+output;Java+%7C+distributed+systems+%7C+clean+architecture" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=650&lines=aspiring+Software+Engineer;designing+for+scale%2C+not+just+for+output;Java+%7C+distributed+systems+%7C+clean+architecture" alt="Typing SVG" />
 
 </div>
 
@@ -64,7 +64,6 @@ public class Fawmeen implements SystemDesignEngineer {
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
