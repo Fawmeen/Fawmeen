@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=160&section=header&text=Mohamed%20Fawmeen&fontSize=40&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=Aspiring%20System%20Design%20Engineer&descAlignY=58&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=160&section=header&text=Mohamed%20Fawmeen&fontSize=40&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer&descAlignY=58&descAlign=50" />
 </div>
 
 <div align="center">
